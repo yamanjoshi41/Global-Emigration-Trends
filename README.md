@@ -55,7 +55,7 @@ The following line chart shows the global emigration trend from **1990 to 2020**
 - The total number of emigrants has consistently increased over the years.
 - The steepest rise occurred between **2010 and 2020**.
 
-![Global Emigration Trend](https://via.placeholder.com/800x400.png?text=Global+Emigration+Trend+Chart)
+
 
 ---
 
@@ -64,7 +64,7 @@ The following bar chart shows the top 10 countries/regions with the highest emig
 - **World** and **Less developed regions** top the list.
 - **Asia** and **Developed regions** also have significant emigration numbers.
 
-![Top 10 Countries](https://via.placeholder.com/800x400.png?text=Top+10+Countries+Chart)
+
 
 ---
 
